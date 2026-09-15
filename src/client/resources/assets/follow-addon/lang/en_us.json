@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "Create player-follow segment",
+  "follow_addon.timeline.finish_tooltip": "Finish player-follow segment (starts at tick %s)",
+  "follow_addon.popup.choose_player": "Choose the player to follow",
+  "follow_addon.popup.no_players": "No replay players are currently loaded.",
+  "follow_addon.popup.target": "Player: %s",
+  "follow_addon.popup.start_tick": "Start tick: %s",
+  "follow_addon.popup.end_tick": "End tick: %s",
+  "follow_addon.popup.mark_end": "Mark end",
+  "follow_addon.popup.discard_start": "Discard start",
+  "follow_addon.error.camera_too_close": "Move the camera away from the player before marking the start.",
+  "follow_addon.error.target_unavailable": "The player is not loaded at this tick, or the camera is too close.",
+  "follow_addon.error.end_before_start": "The end must be after the start.",
+  "follow_addon.info.start_marked": "Follow start marked at tick %s for %s",
+  "follow_addon.info.segment_created": "Player follow created from tick %s to %s for %s",
+  "follow_addon.history.create_segment": "Create player follow for %s",
+  "follow_addon.track.name": "Follow: %s"
+}

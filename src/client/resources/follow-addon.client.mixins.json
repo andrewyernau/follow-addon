@@ -4,6 +4,7 @@
   "package": "com.yernau.followAddon.mixin.client",
   "compatibilityLevel": "JAVA_25",
   "client": [
+    "TimelineWindowMixin"
   ],
   "injectors": {
     "defaultRequire": 1

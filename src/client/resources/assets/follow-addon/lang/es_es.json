@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "Crear tramo de seguimiento de jugador",
+  "follow_addon.timeline.finish_tooltip": "Finalizar seguimiento (empieza en el tick %s)",
+  "follow_addon.popup.choose_player": "Elige el jugador que seguirá la cámara",
+  "follow_addon.popup.no_players": "No hay jugadores de la repetición cargados ahora mismo.",
+  "follow_addon.popup.target": "Jugador: %s",
+  "follow_addon.popup.start_tick": "Tick inicial: %s",
+  "follow_addon.popup.end_tick": "Tick final: %s",
+  "follow_addon.popup.mark_end": "Marcar final",
+  "follow_addon.popup.discard_start": "Descartar inicio",
+  "follow_addon.error.camera_too_close": "Aleja la cámara del jugador antes de marcar el inicio.",
+  "follow_addon.error.target_unavailable": "El jugador no está cargado en este tick o la cámara está demasiado cerca.",
+  "follow_addon.error.end_before_start": "El final debe estar después del inicio.",
+  "follow_addon.info.start_marked": "Inicio marcado en el tick %s para %s",
+  "follow_addon.info.segment_created": "Seguimiento creado del tick %s al %s para %s",
+  "follow_addon.history.create_segment": "Crear seguimiento de %s",
+  "follow_addon.track.name": "Seguimiento: %s"
+}
