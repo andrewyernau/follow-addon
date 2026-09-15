@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "Segment maken waarin de camera een speler volgt",
+  "follow_addon.timeline.finish_tooltip": "Speler volgen afronden (begint bij tick %s)",
+  "follow_addon.popup.choose_player": "Kies de speler die de camera moet volgen",
+  "follow_addon.popup.no_players": "Er zijn momenteel geen spelers uit de herhaling geladen.",
+  "follow_addon.popup.target": "Speler: %s",
+  "follow_addon.popup.start_tick": "Begintick: %s",
+  "follow_addon.popup.end_tick": "Eindtick: %s",
+  "follow_addon.popup.mark_end": "Einde markeren",
+  "follow_addon.popup.discard_start": "Begin verwijderen",
+  "follow_addon.error.camera_too_close": "Plaats de camera verder van de speler voordat je het begin markeert.",
+  "follow_addon.error.target_unavailable": "De speler is bij deze tick niet geladen of de camera staat te dichtbij.",
+  "follow_addon.error.end_before_start": "Het einde moet na het begin liggen.",
+  "follow_addon.info.start_marked": "Begin van volgen gemarkeerd bij tick %s voor %s",
+  "follow_addon.info.segment_created": "Speler volgen aangemaakt van tick %s tot %s voor %s",
+  "follow_addon.history.create_segment": "Volgen van speler %s aanmaken",
+  "follow_addon.track.name": "Volgen: %s"
+}

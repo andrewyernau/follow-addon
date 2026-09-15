@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "プレイヤー追従区間を作成",
+  "follow_addon.timeline.finish_tooltip": "プレイヤー追従区間を完了（開始ティック：%s）",
+  "follow_addon.popup.choose_player": "カメラが追従するプレイヤーを選択",
+  "follow_addon.popup.no_players": "現在読み込まれているリプレイ内のプレイヤーはいません。",
+  "follow_addon.popup.target": "プレイヤー：%s",
+  "follow_addon.popup.start_tick": "開始ティック：%s",
+  "follow_addon.popup.end_tick": "終了ティック：%s",
+  "follow_addon.popup.mark_end": "終了位置をマーク",
+  "follow_addon.popup.discard_start": "開始位置を破棄",
+  "follow_addon.error.camera_too_close": "開始位置をマークする前に、カメラをプレイヤーから離してください。",
+  "follow_addon.error.target_unavailable": "このティックではプレイヤーが読み込まれていないか、カメラが近すぎます。",
+  "follow_addon.error.end_before_start": "終了位置は開始位置より後に設定してください。",
+  "follow_addon.info.start_marked": "%2$s の追従開始位置をティック %1$s にマークしました",
+  "follow_addon.info.segment_created": "%3$s のプレイヤー追従をティック %1$s から %2$s まで作成しました",
+  "follow_addon.history.create_segment": "%s のプレイヤー追従を作成",
+  "follow_addon.track.name": "追従：%s"
+}

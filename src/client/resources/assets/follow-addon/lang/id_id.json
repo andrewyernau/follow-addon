@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "Buat segmen kamera mengikuti pemain",
+  "follow_addon.timeline.finish_tooltip": "Selesaikan segmen mengikuti pemain (mulai pada tick %s)",
+  "follow_addon.popup.choose_player": "Pilih pemain yang akan diikuti kamera",
+  "follow_addon.popup.no_players": "Tidak ada pemain replay yang sedang dimuat.",
+  "follow_addon.popup.target": "Pemain: %s",
+  "follow_addon.popup.start_tick": "Tick awal: %s",
+  "follow_addon.popup.end_tick": "Tick akhir: %s",
+  "follow_addon.popup.mark_end": "Tandai akhir",
+  "follow_addon.popup.discard_start": "Batalkan awal",
+  "follow_addon.error.camera_too_close": "Jauhkan kamera dari pemain sebelum menandai awal.",
+  "follow_addon.error.target_unavailable": "Pemain tidak dimuat pada tick ini atau kamera terlalu dekat.",
+  "follow_addon.error.end_before_start": "Akhir harus berada setelah awal.",
+  "follow_addon.info.start_marked": "Awal mengikuti %2$s ditandai pada tick %1$s",
+  "follow_addon.info.segment_created": "Kamera mengikuti %3$s dibuat dari tick %1$s hingga %2$s",
+  "follow_addon.history.create_segment": "Buat kamera mengikuti %s",
+  "follow_addon.track.name": "Mengikuti: %s"
+}

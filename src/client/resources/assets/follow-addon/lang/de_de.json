@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "Abschnitt zum Folgen eines Spielers erstellen",
+  "follow_addon.timeline.finish_tooltip": "Spielerverfolgung abschließen (Start bei Tick %s)",
+  "follow_addon.popup.choose_player": "Wähle den Spieler, dem die Kamera folgen soll",
+  "follow_addon.popup.no_players": "Derzeit sind keine Spieler der Aufzeichnung geladen.",
+  "follow_addon.popup.target": "Spieler: %s",
+  "follow_addon.popup.start_tick": "Start-Tick: %s",
+  "follow_addon.popup.end_tick": "End-Tick: %s",
+  "follow_addon.popup.mark_end": "Ende markieren",
+  "follow_addon.popup.discard_start": "Start verwerfen",
+  "follow_addon.error.camera_too_close": "Bewege die Kamera vom Spieler weg, bevor du den Start markierst.",
+  "follow_addon.error.target_unavailable": "Der Spieler ist bei diesem Tick nicht geladen oder die Kamera ist zu nah.",
+  "follow_addon.error.end_before_start": "Das Ende muss nach dem Start liegen.",
+  "follow_addon.info.start_marked": "Start der Verfolgung für %2$s bei Tick %1$s markiert",
+  "follow_addon.info.segment_created": "Spielerverfolgung für %3$s von Tick %1$s bis %2$s erstellt",
+  "follow_addon.history.create_segment": "Spielerverfolgung für %s erstellen",
+  "follow_addon.track.name": "Folgen: %s"
+}

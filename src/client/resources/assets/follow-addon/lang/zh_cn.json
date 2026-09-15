@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "创建玩家跟随片段",
+  "follow_addon.timeline.finish_tooltip": "完成玩家跟随片段（起始刻：%s）",
+  "follow_addon.popup.choose_player": "选择摄像机要跟随的玩家",
+  "follow_addon.popup.no_players": "当前没有已加载的回放玩家。",
+  "follow_addon.popup.target": "玩家：%s",
+  "follow_addon.popup.start_tick": "起始刻：%s",
+  "follow_addon.popup.end_tick": "结束刻：%s",
+  "follow_addon.popup.mark_end": "标记结束",
+  "follow_addon.popup.discard_start": "放弃起点",
+  "follow_addon.error.camera_too_close": "标记起点前，请将摄像机移离玩家。",
+  "follow_addon.error.target_unavailable": "该玩家在此刻未加载，或摄像机距离过近。",
+  "follow_addon.error.end_before_start": "结束位置必须晚于起始位置。",
+  "follow_addon.info.start_marked": "已在第 %s 刻为 %s 标记跟随起点",
+  "follow_addon.info.segment_created": "已为 %3$s 创建从第 %1$s 刻到第 %2$s 刻的玩家跟随",
+  "follow_addon.history.create_segment": "创建对 %s 的玩家跟随",
+  "follow_addon.track.name": "跟随：%s"
+}

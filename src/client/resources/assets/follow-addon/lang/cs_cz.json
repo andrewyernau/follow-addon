@@ -1,0 +1,18 @@
+{
+  "follow_addon.timeline.start_tooltip": "Vytvořit úsek sledování hráče",
+  "follow_addon.timeline.finish_tooltip": "Dokončit sledování hráče (začátek v tiku %s)",
+  "follow_addon.popup.choose_player": "Vyber hráče, kterého má kamera sledovat",
+  "follow_addon.popup.no_players": "Momentálně nejsou načteni žádní hráči ze záznamu.",
+  "follow_addon.popup.target": "Hráč: %s",
+  "follow_addon.popup.start_tick": "Počáteční tik: %s",
+  "follow_addon.popup.end_tick": "Koncový tik: %s",
+  "follow_addon.popup.mark_end": "Označit konec",
+  "follow_addon.popup.discard_start": "Zrušit začátek",
+  "follow_addon.error.camera_too_close": "Před označením začátku oddal kameru od hráče.",
+  "follow_addon.error.target_unavailable": "Hráč není v tomto tiku načten nebo je kamera příliš blízko.",
+  "follow_addon.error.end_before_start": "Konec musí být za začátkem.",
+  "follow_addon.info.start_marked": "Začátek sledování hráče %2$s označen v tiku %1$s",
+  "follow_addon.info.segment_created": "Sledování hráče %3$s vytvořeno od tiku %1$s do %2$s",
+  "follow_addon.history.create_segment": "Vytvořit sledování hráče %s",
+  "follow_addon.track.name": "Sledování: %s"
+}
