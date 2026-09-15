@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "follow-addon",
+  "version": "${version}",
+  "name": "Follow-AddOn",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/follow-addon/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.yernau.followAddon.client.FollowAddonDataGenerator"
+    ],
+    "client": [
+      "com.yernau.followAddon.client.FollowAddonClient"
+    ],
+    "main": [
+      "com.yernau.followAddon.FollowAddon"
+    ]
+  },
+  "mixins": [
+    "follow-addon.mixins.json",
+    {
+      "config": "follow-addon.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
